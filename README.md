@@ -5,3 +5,5 @@ do this once
 
 
 git branch <branch_name> : create new branch
+
+did a few other things 
