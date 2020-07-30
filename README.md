@@ -2,3 +2,6 @@
 Git collaboration notes
 
 do this once
+
+
+git branch <branch_name> : create new branch
